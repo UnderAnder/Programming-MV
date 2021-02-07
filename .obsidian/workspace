@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "6407bae6b16b4acc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a46d10b327e80ec",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Проверка равенства строк O(N).md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8bf2e14b751f4d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c58e4bcf98a250c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff2ae5b9e2e4795f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "635c5697e54808b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1ce39be9097a8a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e93c06138803c97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56fe844ec6bb2211",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Проверка равенства строк O(N).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Проверка равенства строк O(N).md",
+    "Untitled.md",
+    "Динамическое программиование/Двумерное динамическое программирование/Задача о рюкзаке.md",
+    "Динамическое программиование/Двумерное динамическое программирование/Алгоритм укладки рюкзака.md",
+    "Динамическое программиование/Двумерное динамическое программирование/Снимок экрана 2021-02-07 в 03.00.20.png",
+    "Динамическое программиование/Двумерное динамическое программирование/Вычисление расстояния Левенштейна.md",
+    "Динамическое программиование/Двумерное динамическое программирование/Наибольшая общая подпоследовательность.md",
+    "Динамическое программиование/Двумерное динамическое программирование/Наибольшая возрастающая подпоследовальность.md",
+    "Динамическое программиование/Двумерное динамическое программирование/количество сочетаний.png",
+    "Динамическое программиование/Двумерное динамическое программирование/Задачка про шахматного короля.md"
+  ]
+}
